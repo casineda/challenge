@@ -1,0 +1,104 @@
+
+body {
+  background-image: url("background.jpg");
+  bac
+   width: 90%;
+   height: 90%;
+   /* background-color: rgba(70, 70, 70, 0.2); */ */
+   margin: auto;
+   background-repeat: no-repeat;
+  /* margin: auto; */
+
+}
+
+.logo{
+margin-top: 100px;
+text-align: center;
+}
+
+.box{
+  width: 50%;
+  height: 70%;
+  margin: auto;
+  background-color: #5852527a;
+  opacity: 0.8;
+  border-radius: 30px
+}
+
+ .titolo{
+  font-size: 50px;
+  color: limegreen;
+  text-align: center;
+}
+
+.testata{
+  font-size: 55px;
+  color: limegreen;
+  font-family: comic sans;
+  text-align: center;
+}
+nav {
+  width: 90%;
+  height: 30%;
+  padding: 40px;
+  background-color: limegreen;
+  text-align: center;
+  margin: auto;
+  border-radius: 12px
+}
+
+main {
+  width: 50%;
+  height: 30%;
+  margin: auto;
+}
+
+.pulsante{
+  width: 500px;
+  height: 100px;
+  font-size: 40px;
+  font-family: Arial;
+  font-weight: bold;
+}
+.monopattino{
+  font-size: 50px;
+  color: white;
+  text-align: left;
+  display: inline;
+}
+
+.titolo2{
+   font-size: 60px;
+   color: whitesmoke;
+   text-align:left;
+}
+
+.carica1{
+  width: 700px;
+  height: 100px;
+  color: goldenrod;
+  border-radius: 12px;
+  /* margin: auto; */
+  background-color: goldenrod;
+}
+
+.carica2{
+  width: 700px;
+  height: 100px;
+  color: limegreen;
+  border-radius: 12px;
+  /* margin: auto; */
+  background-color: limegreen;
+}
+.carica3{
+  width: 700px;
+  height: 100px;
+  color: red;
+  border-radius: 12px;
+  /* margin: auto; */
+  background-color: red;
+}
+
+*{
+  box-sizing: border-box;
+}
