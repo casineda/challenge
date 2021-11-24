@@ -1,0 +1,95 @@
+
+body {
+  background-image: url("background.jpg");
+  background-size: cover;
+
+   /* background-color: rgba(70, 70, 70, 0.2); */ */
+   margin: auto;
+   /* background-repeat: no-repeat; */
+  /* margin: auto; */
+/* font-family: 'Ubuntu', sans-serif; */
+}
+
+.quadrato{
+  width: 50%;
+  height: 1200px;
+  border: 12px solid black;
+  border-radius: 20px;
+  background-color: black;
+  opacity: 0.5;
+  margin: auto;
+
+}
+
+header{
+  height: 20%;
+  text-align: center;
+}
+
+.logo{
+  width: 20%;
+  height: auto;
+  margin-top: 2%;
+}
+
+
+
+ .titolo{
+  font-size: 50px;
+  color: limegreen;
+  }
+
+
+.navigatore{
+  height: 6%;
+  width: auto;
+  background-color: limegreen;
+  border: 12px solid black;
+  text-align: center;
+  line-height: 50px;
+}
+
+.monopattino{
+  height: 10%;
+  width: auto;
+  margin: 20px;
+}
+
+h2 {
+ font-size: 30px;
+ color: white;
+ margin: auto;
+ display: inline-block;
+}
+
+h3 {
+ font-size: 20px;
+ color: white;
+ margin: auto;
+ /* display: inline-block; */
+}
+
+
+.carica1{
+  height: 25%;
+  width: 40%;
+  border-radius: 12px;
+  background-color: goldenrod;
+}
+
+.carica2{
+  height: 25%;
+  width: 60%;
+  border-radius: 12px;
+  background-color: limegreen;
+}
+.carica3{
+  height: 25%;
+  width: 20%;
+  border-radius: 12px;
+  background-color: red;
+}
+
+*{
+  box-sizing: border-box;
+}
